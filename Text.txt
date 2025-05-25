@@ -6,4 +6,6 @@ Because .mjs is reserved for ES6 modules only
 
 Node JS works on Event Driven Architecture i.e kahi se bhi hum events ko fire kar sakte
 
-Nodemon 
+Nodemon: With the help of Nodemon, we can automatically restart our server whenever we make any changes to our code. This is very helpful during the development
+
+To learn more about Node JS: nodejs.dev/learn
