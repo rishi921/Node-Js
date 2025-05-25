@@ -1,0 +1,2 @@
+If we use .mjs extension then we can't use require. It will throw error.
+Because .mjs is reserved for ES6 modules only 
