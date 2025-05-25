@@ -1,2 +1,9 @@
+Adding "type": "module" in your package.json file tells Node.js to treat your JavaScript files as ES modules (ECMAScript modules), 
+instead of the older CommonJS format. This decision affects how you import and export modules in your code.
+
 If we use .mjs extension then we can't use require. It will throw error.
 Because .mjs is reserved for ES6 modules only 
+
+Node JS works on Event Driven Architecture i.e kahi se bhi hum events ko fire kar sakte
+
+Nodemon 
